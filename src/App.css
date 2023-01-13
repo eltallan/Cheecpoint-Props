@@ -1,0 +1,20 @@
+
+
+.mtn {
+  margin-top: 100px;
+  margin-left: 450px;
+  margin-right: 450px;
+  background-color: #86a2db;
+  display: flex;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+  font-weight: bold;
+  width: 15em;
+  border: 1px solid rgb(0, 0, 0);
+  box-shadow: 8px 8px 5px rgb(0, 0, 0);
+  padding: 8px 12px;
+  background-image: linear-gradient(180deg, rgb(188, 211, 245), rgb(122, 129, 224) 40%, rgb(74, 47, 224));
+}
+
+
